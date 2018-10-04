@@ -1,0 +1,12 @@
+--- Key Quotes ---
+
+- Consistency is not a property of a formal system, per se, but depends on the
+  interpretation which is proposed for it. (p. 94)
+- Instead of just considering programs composed of procedures which can
+  recursively call themselves, why not get really sophisticated, and invent
+  programs which can modify themselves --- programs which can act on programs,
+  extending them, improving them, generalizing them, fixing them, and so on?
+  This kind of "tangled recursion" probably lies at the heart of
+  intelligence. (p. 152)
+- [Four words needed for propositional logic: "and", "if...then...", "or",
+  "not"]

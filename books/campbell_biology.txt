@@ -1,0 +1,184 @@
+Chapter 1 - Introduction: Themes in the Study of Life
+
+- book focuses on emergent properties at each level
+- levels of biological organization:
+  - molecules
+  - organelles
+  - cells
+  - tissues
+  - organ systems
+  - organisms
+  - populations
+  - communities
+  - ecosystems
+  - the biosphere
+- the transfer of energy is crucial to understanding biology
+- "Nothing in biology makes sense except in the light of evolution
+- modern scientists debate where protists belong
+  - kingdoms are obviously not very well-defined
+
+Chapter 2 - The Chemistry of Life
+
+- elements of life == oxygen, carbon, hydrogen, nitrogen
+- carbon central because of 4 valence electrons
+
+Chapter 3 - Water and Life
+
+- four key properties of water
+  - cohesion of water molecules
+    - helpful for transportation, plant capillary action
+  - moderation of temperature by water
+  - floating of ice on liquid water
+    - allows acquatic ecosystems to survive winter
+  - the solvent of life
+- acids supply +H, bases supply OH-
+
+Chapter 4 - Carbon and the Molecular Diversity of Life
+
+- original synthetic premodial carbon experiment by Stanley Miller 1953
+- variation in organic molecules caused by differently shaped isomers
+  - include structural isomers, cis-trans isomers, and enantiomers
+  - this are caused by the position of carbon-bonding elements
+- sugars are primary unit of food that gets assembled/broken downj
+
+Chapter 5 - The Structure and Function of Large Biological Molecules
+
+- frequently created/destroyed via dehydraction and hydrolysis reactions
+- saturated, unsaturated, trans fats refer to chemical structure of HC chain
+- lipid membranes formed by back-to-back layers of phospholipid walls
+  - arranged so hydrophilic sides facing water, hydrophophoic faces internally
+- enzymes speed up specific reactions without being consumed
+- four levels of protein structure:
+  - primary: linear arrangement of amino acids
+  - secondary: locally stable regions (still kind of linear)
+  - tertiary: 3-D arrangement of amino acid chain
+    - picture tangled rope stabilized by side chain interactions
+  - quaternary: different tertiary structures arranged to form final protein
+- macromolecules recognize eachother by seeing if the "fit"
+  - this happens on exposed docking sites of the protein
+  - determined by the entire coding of the structure
+
+Chapter 6 - A Tour of the Cell
+
+- layers of microscopic observation instruments:
+  - light microscope - down to bacteria
+  - electron microscope - down to protenines
+    - scanning electron microscope - scan surface
+    - transmission electron microscope - scan internal by staining structures
+- organelles often measured (rather brutishly) using centrifuge
+- nucleus stores all DNA + messenger RNA
+  - chromosomes usually all tangled up until reproduction
+- endoplasmic reticulum
+  - accounts for more than half of total membrane in most cells
+  - smooth ER synthesizes lipds, metabolism of carbs, drug detox
+  - rough ER (studded with ribosomes) secrete a bunch of protein
+- Golgi apparatus
+  - "warehouse for receiving, sorting, shipping, and manufacturing [proteins]"
+  - proteins arrive and are bundled into transport vesicles
+  - apparently, molecular "id tags" on vesicles act as ZIP codes
+    - note: this is pretty crazy
+- lysosome
+  - digests food vacuoles
+  - also serves to recycle damage organelles
+  - a bunch are floating around at any given time
+- mitochondria
+  - use oxygen to generate ATP from sguars, fats, and other fuels
+  - found in nearly all eukaryotic cells including plants
+  - probably originated as symbiotic external organism that lived in cells
+  - reproduce independently throughout lifetime of cell
+- chloroplast
+  - use solar energy to synthesize organic compounds from CO2 and H2O
+  - similar evolutionary origin to mitochondria
+- cytoskeleton
+  - various types of filaments used for support and motility
+  - microtubules support cell and serve as tracks for motor proteins to move
+    - can offer compressive support
+  - micofilaments are tensile only; well known for role in motility
+    - most famously for muscle contraction
+    - motor protens basically use ATP to repeatly bind/unbind and "walk"
+    - intermediate filaments are permanent tensile fixtures for supporting shape
+- plant cell walls are oriented in one direction and provide macro shape
+
+Chapter 7 - Membrane Structure and Function
+
+- fluid mosaic model says that membrane support free-flowing protein embedding
+- fluidity affecting by lipid isomer structure
+- types of embedded proteins:
+  - transport
+  - enzymatic
+  - signal transduction
+  - cell-cell recognition
+  - intercellular joining
+  - attachment to the cytoskeleton and extracelluar matrix
+- membrane must regulate internal content of cell
+- transport proteins can be active or passive
+  - only active uses ATP to pump against gradient
+- bulk transport occurs by exocytosis and endocytosis
+  - membraine has to reach out and "consume" particles (or spit them out)
+
+Chapter 8 - An Introduction to Metabolism
+
+- everything in the world happens for one of two reasons:
+  - reduce entropy within a system
+  - expel energy to the surrounds
+- Gibb's free energy determines whether reaction will occur
+  - identifies the system's "useful" energy, and determined by entropy
+- exergonic reactions still requiring triggering activation energy
+- if a cell is in equilibrium, that means it is dead
+- cells do three types of work:
+  - chemical work (pushing endergonic reactions like polymer synthesis)
+  - transport work (pumping)
+  - mechanical work (actual movement)
+- how ATP performs chemical work:
+  - it energy released by exergoic ATP hydrolysis reaction
+  - this heat drives normally endergonic reactions
+  - note: seems like a pretty inefficient process
+- how ATP performs transpsort work:
+  - operate active transport protein by binding and then releasing key point
+  - this causes pump to open/close selectively
+  - bond to close pump then instantly hydrolyze to release
+- how ATP performs mechanical work:
+  - operate motor protein by binding and rebinding
+  - causes one foot at a time on motor protein to move forward
+  - bond to move forward pump then instantly hydrolyze, holding position
+- ATP recylced by conversation to ADP + phosphate and back again
+  - humans cycle nearly their body weight's worth of ATP each day
+- ways that enzymes speed up reaction:
+  - active sites place molecules in good position to bond
+    - molecules held in place using weak interactions like hydrogen and ionic
+  - provide favorable conditions like pH and temperature
+- cofactors are nonpretein helpers which regulare activity
+  - most vitamins act as cofactors or materials for cofactors
+- enzyme inhibitors come in two types:
+  - competitive: bind to enzyme at the normal substrate site
+  - noncompetitive: bind somewhere else to deform enzyme, reducing effectiveness
+- allosteric regulartion:
+  - usually this means that regulatory molecule affects all subunits of enzyme
+- many endproducts of metabolic pathway act as inhibitors for early enzymes
+  - this is example of negative feedback
+
+Chapter 9 - Cellular Respiration
+
+- three types of metabolic pathways:
+  - aerobic respiration
+  - anaerobic respiration
+  - fermentation
+- redox == gaining an electron (losing charge), oxidation == losing electron
+- energy released because electrons move to more electronegative compound
+- oxygen extremely electronegative, hence useful for metabolism
+- energy released in multiple intermediate steps
+  - electron flows down "electron transport chain"
+  - process consumes ATP but nets out more
+- efficiency about 34% -- compared to 25% combustion engine
+- crazy mechanical process:
+  - electron transport train maintains a H+ gradient across membrace
+  - H+ gradient used by ATP synthase, which is a mother****ing molecular mill
+    - smallest molecular rotary motor known in nature
+  - H+ causes synapse crank to turn, which activates catalytic sites
+    - this somehow grinds ADP -> ATP
+- anaerobic respiration used other electronegative compounds like sulfate
+- fermentation stops after first step and is much less efficient
+- hybernating animals turn off ATP but allow heat generation to continue
+- ATP and other molecules both add as inhibitory feedback
+- body produces most of the chmicals it needs save for 20 amino acids
+  - regulated by "supply and demand" apparently...

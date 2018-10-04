@@ -1,0 +1,167 @@
+--- Interesting Points ---
+
+- Energy/entropy should be considered in economics
+- Organisms, cities/economies, companies scale by power laws of 0.75, 0.85, 0.9
+  - Origins of cities and company power laws are never explained
+- Wars/conflicts/murders are a continuous spectrum of scaled violence
+
+- Organism scaling law determined by increasingly space-filling fractal dimensions
+  - Metabolism is most prominent
+  - Circulatory impedence matching implies economies of scale + fractal dimensions
+  - Apparent need for only 3/4th terminal units like capillaries/mitochondria (why?)
+- Maxmium aquatic mammal size dependent on growing area between capillaries
+  - "Arcane" result of theory dictates distance grows with 1/12 exponent (why?)
+- Organism lifetime and speed scales according to 0.25 power law
+  - All mammals have ~1.5 billion heartbeats in lifetime
+  - Scaling is probably determined by 0.25 distance (length^1 / length^4)
+- Aging caused by wear and tear
+  - Two main sources: viscous capillary friction + ATP production in mitochondria
+  - Historical "low" life expectancies due to environment only
+  - Caloric limiting beneficial under this theory
+
+- One new NYC metropolitan area added to the world every two months
+- City infrastructure scales sublinearly by 0.85
+- Social phenomena (patents, wages, crime, pollution, disease) scales superlinearly by 1.15
+- Infrastructure / social scaling perceived to be causally related
+- Pace of life (walking/phone, etc) scales with smaller exponent up to physical constraint
+- Mental problems hypothesized to be cause by hyperstimulation of city life
+  - I like this theory
+- People historically travel about an hour/day no matter what
+  - Seems more like a statement on free-time than an actually interesting phenomenon
+- Dunbar's number
+  - Growing layers of social network connections
+  - 5 very close friends, 15 closish friends, 50 friends, 150 acquiantances
+  - Hypothesized to have neurological organisms
+    - Skeptical about this... seems like a finiteness of time thing to me
+- "Exponential singularity" pushed off by paradigm shifting innovation (why?)
+
+- Company lifetime/revenues follow Zipf's law
+- Companies scale sublinearly; more like organisms than cities
+  - Independent of industry
+  - Scaling limits analagous to organism growth limits -- point where input == maintanence
+  - Grows exponentially until capital funding is spent then grows linearly
+- Oldest companies are smaller, niche, and frequently Japanese
+  - No attempt at explanations here so nothing to take away, unfortunately
+
+--- Interesting Stories ---
+  - Elephant LSD story
+  - BMI and baby tylenol scaling pitfalls
+  - Discovery of coastal fractal dimensions
+
+--- Questions ---
+
+- Why does the # of terminal units scaled with 3/4?
+- laundry metaphor is a really bad metaphor (section on 4th dimension of life)
+- 1/12th law - "arcane result"
+- Exponential growth singularity staved off by paradigm-shifting innovations
+
+--- Table of Contents ---
+
+1 The Big Picture 1
+
+Introduction, Overview, and Summary
+We Live in an Exponentially Expanding Socioeconomic Urbanized World
+A Matter of Life and Death
+Energy, Metabolism, and Entropy
+Size Really Matters: Scaling and Nonlinear Behavior
+Scaling and Complexity: Emergence, Self-Organization, and Resilience
+You Are Your Networks: Growth from Cells to Whales
+Cities and Global Sustainability: Innovation and Cycles of Singularities
+Companies and Businesses
+
+2 The Measure of All Things: An Introduction to Scaling 35
+
+From Godzilla to Galileo
+Misleading Conclusions and Misconceptions of Scale: Superman
+Orders of Magnitude, Logarithms, Earthquakes, and the Richter Scale
+Pumping Iron and Testing Galileo
+Individual Performance and Deviations from Scaling: The Strongest Man in the World
+More Misleading Conclusions and Misconceptions of Scale: Drug Dosages from LSD and Elephants to Tylenol and Babies
+BMI, Quetelet, the Average Man, and Social Physics
+Innovation and Limits to Growth
+The Great Eastern, Wide-Gauge Railways, and the Remarkable Isambard Kingdom Brunei
+William Froude and the Origins of Modeling Theory
+Similarity and Similitude: Dimensionless and Scale-Invariant Numbers
+
+3 The Simplicity, Unity, and Complexity of Life 79
+
+From Quarks and Strings to Cells and Whales
+Metabolic Rate and Natural Selection
+Simplicity Underlying Complexity: Kleiber's Law, Self-Similarity, and Economies of Scale
+Universality and the Magic Number Four That Controls Life
+Energy, Emergent Laws, and the Hierarchy of Life
+Networks and the Origins of Quarter-Power Allometric Scaling
+Physics Meets Biology: On the Nature of Theories, Models, and Explanations
+Network Principles and the Origins of Allometric Scaling
+Metabolic Rate and Circulatory Systems in Mammals, Plants, and Trees
+Digression on Nikola Tesla, Impedance Matching, and AC/DC
+Back to Metabolic Rate, Beating Hearts, and Circulatory Systems
+Self-Similarity and the Origin of the Magic Number Four
+
+4 The Fourth Dimension of Life: Growth, Aging, and Death 147
+Fractals: The Mysterious Case of the Lengthening Borders
+
+The Fourth Dimension of Life
+Why Aren't There Mammals the Size of Tiny Ants?
+And Why Aren't There Enormous Mammals the Size of Godzilla?
+Growth
+Global Warming, the Exponential Scaling of Temperature, and the Metabolic Theory of Ecology
+Aging and Mortality
+
+5 From the Anthropocene to the Urbanocene: A Planet Dominated by Cities 209
+
+Living in Exponentially Expanding Universes
+Cities, Urbanization, and Global Sustainability
+Digression: What Exactly Is an Exponential Anyway? Some Cautionary Fables
+The Rise of the Industrial City and Its Discontents
+Malthas, Neo-Malthusians, and the Great Innovation Optimists
+It's All Energy, Stupid
+
+6 Prelude to a Science of Cities 247
+
+Arc Cities and Companies Just Very Large Organisms?
+St. Jane and the Dragons
+An Aside: A Personal Experience of Garden Cities and New Town
+Intermediate Summary and Conclusion
+
+7 Toward A Science of Cities 269
+
+The Scaling of Cities
+Cities and Social Networks
+What Are These Networks?
+Cities: Christalls or Fractals?
+Cities as the Great Social Incubator
+How Many Close Friends Do You Really Have? Dunbar and His Numbers
+Words and Cities
+The Fractal City: Integrating the Social with the Physical
+
+8 Consequences and Predictions: From Mobility and the Pace of Life to Social Connectivity, Diversity, Metabolism, and Growth 325
+
+The Increasing Pace of Life
+Life on an Accelerating Treadmill: The City as the Incredible Shrinking Time Machine
+Commuting Time and the Size of Cities
+The Increasing Pace of Walking
+You Are Not Alone: Mobile Telephones as Detectors of Human Behavior
+Testing and Verifying the Theory: Social Connectivity in Cities
+The Remarkably Regular Structure of Movement in Cities
+Overperformers and Underperformers
+The Structure of Wealth, Innovation, Crime, and Resilience: The Individuality and Ranking of Cities
+Prelude to Sustainability: A Short Digression on Water
+The Socioeconomic Diversity of Business Activity in Cities
+Growth and the Metabolism of Cities
+
+9 Toward a Science of Companies 379
+
+Is Walmart a Scaled-Up Big Joe's Lumber and Google a Great Big Bear?
+The Myth of Open-Ended Growth
+The Surprising Simplicity of Company Mortality
+Requiescant in Pace
+Why Companies Die, but Cities Don't
+
+10 The Vision of a Grand Unified Theory of Sustainability 411
+
+Accelerating Treadmills, Cycles of Innovation, and Finite Time Singularities
+
+Afterword
+Science for the Twenty-first Century
+Transdisciplinarity, Complex Systems, and the Santa Fe Institute

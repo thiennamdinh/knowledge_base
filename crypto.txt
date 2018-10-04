@@ -1,0 +1,11 @@
+--- Real ---
+
+Secure Multi-Party Encryption
+Homomorphic Encryption
+Functional Encryption
+Zero-knowledge Proof of Knowledge
+Obfuscation
+
+--- Fake ---
+
+
